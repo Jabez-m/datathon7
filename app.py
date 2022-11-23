@@ -1,7 +1,7 @@
 import streamlit as st
 import joblib
-vect1=joblib.load('D:/Academics/Personal/Tasks/try4/vect.joblib')
-mod=joblib.load('D:/Academics/Personal/Tasks/try4/cl.ml')
+vect1=joblib.load('vect.joblib')
+mod=joblib.load('cl.ml')
 
 def home(input_data):
     ls=[]
