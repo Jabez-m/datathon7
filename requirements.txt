@@ -1,4 +1,4 @@
-flask
+streamlit
 idna
 itsdangerous
 Jinja2
